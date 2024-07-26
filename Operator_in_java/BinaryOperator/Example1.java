@@ -1,4 +1,4 @@
-package Operator_in_java.JavaArithmeticOperator;
+package Operator_in_java.BinaryOperator;
 
 public class Example1 {
     public static void main(String[] args) {
@@ -9,6 +9,5 @@ public class Example1 {
         System.out.println(a * b);
         System.out.println(a / b);
         System.out.println(a % b);
-        System.out.println(a & b);
     }
 }
