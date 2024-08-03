@@ -21,7 +21,7 @@ public class MultiDimensionalArrayList {
         }
 
         System.out.println(list);
-        in.close();
+        in.close(); /// integer array in multidimensional arraylist
     }
 
 }
