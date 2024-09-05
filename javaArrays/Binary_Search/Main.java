@@ -3,13 +3,14 @@ package javaArrays.Binary_Search;
 public class Main {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-        int n = arr.length - 1;
-        int key = 10;
-        int x = binarySearch(arr, 0, n, key);
+        int key = 1;
+        int x = binarySearch(arr, key);
         System.out.println("found at " + x);
     }
 
-    public static int binarySearch(int arr[], int start, int end, int key) {
+    public static int binarySearch(int arr[], int key) {
+        int start = 0;
+        int end = arr.length - 1;
         while (start <= end) {
             int mid = start + (end - start) / 2;
             if (arr[mid] == key) {
