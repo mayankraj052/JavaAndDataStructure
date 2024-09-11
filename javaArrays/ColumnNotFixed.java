@@ -1,4 +1,3 @@
-package javaArrays;
 
 public class ColumnNotFixed {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javaArrays.array;
+package array;
 
 public class MaxSubArrayKadanes_algo {
     public static void main(String[] args) {

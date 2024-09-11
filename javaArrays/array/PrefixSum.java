@@ -1,4 +1,4 @@
-package javaArrays.array;
+package array;
 
 public class PrefixSum {
     public static void main(String[] args) {
