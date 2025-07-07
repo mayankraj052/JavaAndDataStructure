@@ -1,3 +1,4 @@
+
 package TwoDArray;
 
 class SpiralMatrix {
@@ -19,13 +20,13 @@ class SpiralMatrix {
             }
             // buttom
             for (int j = endCol - 1; j >= startCol; j--) {
-                if(startCol == endCol){
+                if (startCol == endCol) {
                     break;
                 }
                 System.out.println(arr[endRow][j]);
             }
             // left
-            for (int i = endRow - 1; i >=startRow + 1; i--) {
+            for (int i = endRow - 1; i >= startRow + 1; i--) {
                 System.out.println(arr[i][startCol]);
             }
             startRow++;
@@ -39,7 +40,7 @@ class SpiralMatrix {
         int[][] arr = {
                 { 1, 2, 3, 4 },
                 { 5, 6, 7, 8 },
-                //9, 10, 11, 12 },
+                // 9, 10, 11, 12 },
                 { 13, 14, 15, 16 }
         };
         printSpiral(arr);
