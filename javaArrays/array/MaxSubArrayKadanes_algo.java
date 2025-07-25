@@ -6,18 +6,18 @@ public class MaxSubArrayKadanes_algo {
         maxSumKadane(arr);
     }
 
-    // public static void maxSumKadane(int arr[]) {
-    // int maxSum = Integer.MIN_VALUE;
-    // int curSum = 0;
-    // for (int i = 0; i < arr.length; i++) {
-    // curSum = curSum + arr[i];
-    // if (curSum < 0) {
-    // curSum = 0;
-    // }
-    // maxSum = Math.max(maxSum, curSum);
-    // }
-    // System.out.println("maximum sub array sum is " + maxSum);
-    // }
+    public static void maxSumKadaneFirst(int arr[]) {
+        int maxSum = Integer.MIN_VALUE;
+        int curSum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            curSum = curSum + arr[i];
+            if (curSum < 0) {
+                curSum = 0;
+            }
+            maxSum = Math.max(maxSum, curSum);
+        }
+        System.out.println("maximum sub array sum is " + maxSum);
+    }
 
     public static void maxSumKadane(int arr[]) {
         int maxSum = Integer.MIN_VALUE;
