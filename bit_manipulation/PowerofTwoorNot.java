@@ -1,4 +1,4 @@
-package bit_manipulation;
+// package bit_manipulation;
 
 public class PowerofTwoorNot {
     public static boolean isPoerofTwo(int n){

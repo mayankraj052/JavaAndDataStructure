@@ -1,4 +1,4 @@
-package bit_manipulation;
+// package bit_manipulation;
 
 public class UpdateIthBit {
     public static int getSetIthBit(int n, int i){

@@ -1,4 +1,4 @@
-package OOps;
+// package OOps;
 
 public class MethodOverriding {
     public static void main(String[] args) {
@@ -6,21 +6,21 @@ public class MethodOverriding {
         Dear d = new Dear();
         d.eat(); // Calls Dear's eat() method
 
-        Animal a = new Animal();
+        Anima a = new Anima();
         a.eat(); // Calls Animal's eat() method
 
-        Animal a1 = new Dear(); // Upcasting
+        Anima a1 = new Dear(); // Upcasting
         a1.eat(); // Calls Dear's eat() method due to Runtime Polymorphism
     }
 }
 
-class Animal {
+class Anima {
     void eat() {
         System.out.println("eats anything.");
     }
 }
 
-class Dear extends Animal {
+class Dear extends Anima {
     // @Override
     void eat() {
         System.out.println("eats only grass.");

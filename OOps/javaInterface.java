@@ -1,4 +1,4 @@
-package OOps;
+// package OOps;
 
 public class javaInterface {
     public static void main(String[] args) {
@@ -37,7 +37,7 @@ public class javaInterface {
 // implementing multiple inheritence using interface.
 
 // First interface
-interface Animal {
+interface Animals {
     void eat();
 }
 
@@ -47,7 +47,7 @@ interface Bird {
 }
 
 // A class implementing both interfaces (Multiple Inheritance)
-class Sparrow implements Animal, Bird {
+class Sparrow implements Animals, Bird {
     public void eat() {
         System.out.println("Sparrow eats seeds.");
     }

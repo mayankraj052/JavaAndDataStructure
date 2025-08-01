@@ -1,5 +1,4 @@
-package Basic_Sorting;
-
+// package Basic_Sorting;
 public class SelectionSort {
     public static void main(String[] args) {
         int[] data = { 20, 12, 10, 15, 2 };

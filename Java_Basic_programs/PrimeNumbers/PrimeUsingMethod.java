@@ -8,7 +8,7 @@ public class PrimeUsingMethod {
         System.out.println("enter the number to check:");
         int num = sc.nextInt();
         int flag = 0;
-        for (int i = 2; i < num; i++) {
+        for (int i = 2; i <= Math.sqrt(num); i++) {
             if (num % i == 0) {
                 flag = 1;
                 break;

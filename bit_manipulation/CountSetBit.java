@@ -1,4 +1,4 @@
-package bit_manipulation;
+// package bit_manipulation;
 
 public class CountSetBit {
     public static int countBitOne(int n){

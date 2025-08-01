@@ -1,4 +1,4 @@
-package bit_manipulation;
+// package bit_manipulation;
 
 public class OddEven {
     public static void findOddEven(int n){

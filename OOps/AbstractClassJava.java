@@ -1,4 +1,4 @@
-package OOps;
+// package OOps;
 
 public class AbstractClassJava {
     public static void main(String[] args) {

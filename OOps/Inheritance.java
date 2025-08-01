@@ -1,6 +1,6 @@
-package OOps;
+// package OOps;
 // import java.util.*;
-
+//package OOps;
 public class Inheritance {
     public static void main(String[] args) {
         // Fish shark = new Fish();
@@ -23,7 +23,7 @@ public class Inheritance {
     }
 }
 
-class Animal {
+class Animalxy {
     String color;
 
     void eat() {
@@ -36,7 +36,7 @@ class Animal {
 }
 
 // Derived Class
-class Fish extends Animal {
+class Fish extends Animalxy {
     boolean isFish;
 
     void swim() {
@@ -46,7 +46,7 @@ class Fish extends Animal {
     }
 }
 
-class Mammals extends Animal {
+class Mammals extends Animalxy {
     int legs;
 
     void displayLegs() {

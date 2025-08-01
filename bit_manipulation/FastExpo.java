@@ -1,4 +1,4 @@
-package bit_manipulation;
+// package bit_manipulation;
 
 public class FastExpo {
     public static int calcPower(int a, int n) {

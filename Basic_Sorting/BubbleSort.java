@@ -1,5 +1,3 @@
-package Basic_Sorting;
-
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = { 4, 6, 7, 9, 1, 3, 2 };
