@@ -1,4 +1,4 @@
-package VariableAndDataType;
+// package VariableAndDataType;
 // java is a typed language.
 
 public class JavaBasic {

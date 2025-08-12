@@ -1,4 +1,4 @@
-package Java_Basic_programs.Palindrome;
+// package Java_Basic_programs.Palindrome;
 
 import java.util.*;
 

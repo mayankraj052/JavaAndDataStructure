@@ -1,4 +1,4 @@
-package Method_example.function;
+// package Method_example.function;
 
 public class DecToBin {
     public static void main(String[] args) {

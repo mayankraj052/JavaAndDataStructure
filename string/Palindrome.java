@@ -1,4 +1,4 @@
-package string;
+// package string;
 
 public class Palindrome {
     public static boolean isPalindrome(String str) {

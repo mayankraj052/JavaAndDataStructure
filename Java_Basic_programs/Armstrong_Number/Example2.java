@@ -1,5 +1,5 @@
 /*Let’s create another Java program that checks if the given number is an Armstrong number or not. */
-package Java_Basic_programs.Armstrong_Number;
+// package Java_Basic_programs.Armstrong_Number;
 
 import java.util.*;
 

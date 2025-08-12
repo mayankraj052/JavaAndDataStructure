@@ -1,4 +1,4 @@
-package string;
+// package string;
 
 public class FirstLetterUpper {
     public static String toUppercase(String str) {

@@ -1,4 +1,4 @@
-package TwoDArray;
+// package TwoDArray;
 
 public class MinAndMax {
     public static void findMinMax(int[][] arr) {

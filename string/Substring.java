@@ -1,4 +1,4 @@
-package string;
+// package string;
 
 public class Substring {
     public static String getSubstring(String str, int si, int ei) {

@@ -1,4 +1,4 @@
-package TwoDArray;
+// package TwoDArray;
 
 public class SearchInSortedMatrix {
     public static void search(int [][]arr, int key){

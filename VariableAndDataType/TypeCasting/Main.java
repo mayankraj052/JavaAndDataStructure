@@ -1,4 +1,4 @@
-package VariableAndDataType.TypeCasting;
+// package VariableAndDataType.TypeCasting;
 
 import java.util.*;
 

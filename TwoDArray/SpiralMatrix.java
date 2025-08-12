@@ -1,5 +1,5 @@
 
-package TwoDArray;
+// package TwoDArray;
 
 class SpiralMatrix {
     public static void printSpiral(int[][] arr) {

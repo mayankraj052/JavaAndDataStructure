@@ -1,4 +1,3 @@
-// package bit_manipulation;
 
 public class ClearLastIthBits {
     public static int clearlastIbit(int n ,int i){

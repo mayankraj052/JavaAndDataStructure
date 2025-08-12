@@ -1,4 +1,4 @@
-package Method_example;
+// package Method_example;
 
 import java.util.*;
 

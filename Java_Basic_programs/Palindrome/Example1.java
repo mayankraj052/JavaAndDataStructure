@@ -1,4 +1,4 @@
-package Java_Basic_programs.Palindrome;
+// package Java_Basic_programs.Palindrome;
 
 public class Example1 {
     public static void main(String[] args) {

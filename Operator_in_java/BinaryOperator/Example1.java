@@ -1,4 +1,4 @@
-package Operator_in_java.BinaryOperator;
+// package Operator_in_java.BinaryOperator;
 
 public class Example1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Java_Basic_programs.PrimeNumbers;
+// package Java_Basic_programs.PrimeNumbers;
 
 import java.util.*;
 

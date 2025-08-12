@@ -1,5 +1,5 @@
-package Control_Statement;
-
+// package Control_Statement;
+// 
 public class JavaForEachLoop {
     public static void main(String[] args) {
         String[] listArr = { "ma", "na", "oa", "pa", "qa" };

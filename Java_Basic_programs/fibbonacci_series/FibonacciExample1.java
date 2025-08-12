@@ -4,7 +4,7 @@ The first two numbers of fibonacci series are 0 and 1.
 There are two ways to write the fibonacci series program in java:
 Fibonacci Series without using recursion
 Fibonacci Series using recursion */
-package Java_Basic_programs.fibbonacci_series;
+// package Java_Basic_programs.fibbonacci_series;
 
 import java.util.*;
 

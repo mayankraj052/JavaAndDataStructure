@@ -1,4 +1,4 @@
-package VariableAndDataType.TypeConversion;
+// package VariableAndDataType.TypeConversion;
 import java.util.*;
 public class Main {
     public static void main(String[] args) {

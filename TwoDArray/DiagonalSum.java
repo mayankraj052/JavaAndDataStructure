@@ -1,4 +1,4 @@
-package TwoDArray;
+// package TwoDArray;
 
 public class DiagonalSum {
     public static void sumDiag(int[][] arr) {  // O(n^2)

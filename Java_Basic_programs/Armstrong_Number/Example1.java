@@ -1,5 +1,5 @@
 /*The following Java program prints all the Armstrong numbers up to the specified limit. */
-package Java_Basic_programs.Armstrong_Number;
+// package Java_Basic_programs.Armstrong_Number;
 
 import java.util.*;
 import java.lang.Math;

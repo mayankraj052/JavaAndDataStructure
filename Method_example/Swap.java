@@ -1,4 +1,4 @@
-package Method_example;
+// package Method_example;
 
 public class Swap {
     public static void main(String[] args) {
