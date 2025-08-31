@@ -1,5 +1,5 @@
 // package javaArrays;
-public class Main {
+class Main {
     public static void main(String[] args) {
         // Syntax
         // datatypes[] varibale_name = new datatypes[size];

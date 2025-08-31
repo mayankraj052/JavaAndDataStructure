@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class Swap {
+class Swap {
     public static void main(String[] args) {
         int arr[] = { 23, 45, 233, 543, 3 };
         swap(arr, 0, 4);

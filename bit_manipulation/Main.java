@@ -1,4 +1,4 @@
-// package bit_manipulation;
+ package bit_manipulation;
 
 class Main {
     public static void main(String[] args) {
